@@ -1,3 +1,9 @@
+@font-face {
+    src: url(../fonts/sumana.woff) format('woff');
+    font-family: 'Sumana';
+  }
+
+
 .header {
     display: flex;
     justify-content: center;
